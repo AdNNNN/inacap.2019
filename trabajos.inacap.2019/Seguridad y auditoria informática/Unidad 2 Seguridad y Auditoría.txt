@@ -1,0 +1,30 @@
+Seguridad Unidad 2: Blue Team
+
+ABP2: Herramientas, planes y políticas de seguridad (Archivo: 01_TIEA07_U2_ABP2)
+Problematica Unidad 2 (Archivo: 02_Problemática_Unidad_2.docx)
+Formato del informe (Archivo 04 Formato_Informe.docx) (Archivo 03_Kit_Concientizar)
+
+Contenido a estudiar
+- Herramientas
+- Planes
+- Políticas de Seguridad
+- Seguridad física
+- Seguridad lógica
+- Datacenter(Alta Disponibilidad)
+- SQA
+- Diseño de controles Informáticos
+- Planes BIA, BCP, DRD
+- Infraestructura tecnlógica Fw, IPS, IDS, Proxy
+- Herramientas de SW
+
+Fecha de entrega: 07/05 (20%)
+
+Clase 15 de Abril venir con contenidos sobre:
+- Seguridad Física
+- Seguridad Lógica
+- Planes
+- Políticas
+
+Investigar como grupo (Presentación???)
+- Datacenter (Software, hardware, servicios)
+- Herramientas de software de auditoría
