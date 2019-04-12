@@ -10,11 +10,22 @@ Por que les pertenece el problema: las instituciones de proteccion tiene como un
 
 Fuente:https://www.monografias.com/trabajos82/estica-carabineros-es-inseguridad-ciudadana/estica-carabineros-es-inseguridad-ciudadana4.shtml
 
+-------------------------------------------------------------------------------------
 
-Solucion (evitela por el momento): Gracias a los recursos actuales que posee carabineros de chile (Camaras de vigilancia), se implementara vision artificial para el reconocimiento de las patentes, con los fines de: 
-	- Idenficar los automoviles con encargo.
-	- Seguimiento del objeto sustraido. ??
-	- Mitigar futuros robos. ??
-	- Actuar con mayor rapidez, eficacia y eficiencia.
-	- Recuperar el objeto con mayor mapidez. ??
+Solucion 1: Gracias a rescursos actuales que maneja Carabineros de Chile, ya se las camaras de transito, se debera implementar vision artificil para el reconocimineto de patentes de un vehiculo. El fin de aquello es identificar vehiculos con presunto cargo de robos y/o otro delito cometido. 
 
+Puntos Fuertes --> 
+	- La camara ya implementada en la region Metropolitada se cuenta operando las 24/7, 
+	- Se encuentra ya conectada a un servidor.
+	- Se encuentra monitoreada bajo manipulacion Humana.
+
+Puntos Debiles --> 
+	- Las patentes del supuesto vehiculo puede no estar visible a simple vista.
+	- Se debe hacer intervencion humana.
+
+Solucion 2: Implementacion de camaras de vigilancia en las patrullas de Carabineros de chile, esta es otra forma para vigilar, reconcer e idenficiar las patentes que tenga encargo de robos.
+
+Puntos Fuertes --> 
+	- La vigilancia es mas efectiva ya dentro de una patrulla.
+	- Se puede hacer una interversion en el momento.
+	- 
