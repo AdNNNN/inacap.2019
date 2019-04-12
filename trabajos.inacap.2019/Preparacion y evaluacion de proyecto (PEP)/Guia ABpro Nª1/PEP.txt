@@ -23,9 +23,30 @@ Puntos Debiles -->
 	- Las patentes del supuesto vehiculo puede no estar visible a simple vista.
 	- Se debe hacer intervencion humana.
 
+----0----0----0----
+
 Solucion 2: Implementacion de camaras de vigilancia en las patrullas de Carabineros de chile, esta es otra forma para vigilar, reconcer e idenficiar las patentes que tenga encargo de robos.
 
 Puntos Fuertes --> 
 	- La vigilancia es mas efectiva ya dentro de una patrulla.
 	- Se puede hacer una interversion en el momento.
-	- 
+
+Puntos debiles -->
+	- La transferencia de datos via internet movil seria demasiado costosa.
+	- Existe un delay entre el postprocesado de datos y la respuesat que podria hace ineficiente este metodo.
+
+----0----0----0----
+
+Solucion 3: Se puede utilizar un equipo de dornes que realice controles de transito en distintas intersecciones o avenidas concurrias de santiago
+
+Puntos fuertes:
+	- Puede desplegarse en casi cualquier ubicacion con facilidad
+
+Puntos debiles:
+	- Baja autonomia energetica de los drones.
+	- Dificulta la funcion de transferencia de datos
+
+----0----0----0----
+
+-------------------------------------------------------------------------------------
+
