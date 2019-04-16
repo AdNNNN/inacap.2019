@@ -1,14 +1,17 @@
 
 Etapa 1: Eleccion del tipo de proyecto
-  ☐ 1.1: Determinacion de la problematica a abordar.
-    ☐ Analisis situacion actual empresa.
-    ☐ Modelamiento de proceso de negocio determinar F y D con el fin de evidenciar la problematica.
-    ☐ Levantar requerimientos de la empresa.
+  ✔ 1.1: Determinacion de la problematica a abordar. @done (19-04-16 17:32)
+    ✔ Analisis situacion actual empresa. @done (19-04-16 14:12)
+    ✔ Modelamiento de proceso de negocio determinar F y D con el fin de evidenciar la problematica. @done (19-04-16 17:13)
+    ✔ Levantar requerimientos de la empresa. @done (19-04-16 17:13)
+    ✔ Analisis situacion actual empresa. @done (19-04-16 17:31)
+    ✔ Modelamiento de proceso de negocio determinar F y D con el fin de evidenciar la problematica. @done (19-04-16 17:31)
+    ✔ Levantar requerimientos de la empresa. @done (19-04-16 17:31)
 
-  ☐ 1.2: Definicion de la solucion.
-    ☐ Plantear una propuesta de solucion.
-    ☐ Diseñar la solucion de la problematica.
-    ☐ Modelo de proceso de negocio hacia la solucion.
+  ✔ 1.2: Definicion de la solucion. @done (19-04-16 17:32)
+    ✔ Plantear una propuesta de solucion. @done (19-04-16 17:32)
+    ✔ Diseñar la solucion de la problematica. @done (19-04-16 17:32)
+    ✔ Modelo de proceso de negocio hacia la solucion. @done (19-04-16 17:32)
 
  Etapa 2: Analisis de la Viabilidad del proyecto
    ☐ 2.1: Analisis de Viabilidad Comercial.
