@@ -15,13 +15,15 @@ Fuente:https://www.monografias.com/trabajos82/estica-carabineros-es-inseguridad-
 Solucion 1: Gracias a rescursos actuales que maneja Carabineros de Chile, ya se las camaras de transito, se debera implementar vision artificil para el reconocimineto de patentes de un vehiculo. El fin de aquello es identificar vehiculos con presunto cargo de robos y/o otro delito cometido. 
 
 Puntos Fuertes --> 
-	- La camara ya implementada en la region Metropolitada se cuenta operando las 24/7, 
+	- La camara ya implementada en la region Metropolitada se cuenta operando las 24/7.
 	- Se encuentra ya conectada a un servidor.
 	- Se encuentra monitoreada bajo manipulacion Humana.
 
 Puntos Debiles --> 
 	- Las patentes del supuesto vehiculo puede no estar visible a simple vista.
 	- Se debe hacer intervencion humana.
+
+Analisis --> 
 
 ----0----0----0----
 
@@ -34,6 +36,8 @@ Puntos Fuertes -->
 Puntos debiles -->
 	- La transferencia de datos via internet movil seria demasiado costosa.
 	- Existe un delay entre el postprocesado de datos y la respuesat que podria hace ineficiente este metodo.
+
+
 
 ----0----0----0----
 
@@ -49,4 +53,3 @@ Puntos debiles:
 ----0----0----0----
 
 -------------------------------------------------------------------------------------
-
