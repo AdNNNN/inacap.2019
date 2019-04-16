@@ -41,7 +41,7 @@ Puntos debiles -->
 
 ----0----0----0----
 
-Solucion 3: Se puede utilizar un equipo de dornes que realice controles de transito en distintas intersecciones o avenidas concurrias de santiago
+Solucion 3: Se puede utilizar un equipo de drones que realice controles de transito en distintas intersecciones o avenidas concurridas de santiago
 
 Puntos fuertes:
 	- Puede desplegarse en casi cualquier ubicacion con facilidad
@@ -52,4 +52,5 @@ Puntos debiles:
 
 ----0----0----0----
 
+Solucion 4: Se pueden utilizar 
 -------------------------------------------------------------------------------------
