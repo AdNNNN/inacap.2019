@@ -1,0 +1,159 @@
+Gestión de servicios y gobernabilidad TI
+
+2- Fuentes de creación de valor
+		-	El valor es un indicador de capacidad competitiva
+		-	Las fuentes de creación de valor son:
+				-	Aumentar el “valor percibido” o “Valor esperado”, por el cliente (por ejemplo, a través del liderazgo en producto)
+				-	Reducir costos de transacción del cliente
+				-	Reducir costos de la empresa (por ejemplo, a través de la excelencia operacional).
+
+Se dividen según sus niveles operacionales con una base que solventa el resto la pirámide.
+
+Operativo->táctico/gestión->estratégico.
+
+El nivel operativo captura los datos y es la base financiera del trabajo.
+
+El nivel operativo debe alcanzar la excelencia mediante estrategias de los niveles superiores, importante el generar los modelos bpm de negocio.
+
+Cada proceso tiene recursos, objetivos, información, reglas de negocio, KPI
+
+Cada proceso debe tener asociado un KPI que valla midiendo el desempeño
+
+BPM esta formado por tres fases, el diseño, la automatización, monitoreo si lo anterior dicho no se cumple se debe entrar en procesos de mejora continua para rediseñar los procesos.
+
+Con estos modelos implementados se debe hacer tender los tiempos de ocio a cero, los tiempos de cuello de botella también deben tender a cero.
+
+Los cuellos de botella y los tiempos de ocio se identifican por unidad de tiempo, todo esto con el fin de bajar los gastos operacionales y aumentar la productividad.
+
+Antes de realizar el modelo bpm se debe realizar un estudio de la línea de producción del producto en cuestión.
+
+Se puede recurrir a el método de los seis pasos.
+
+Mediante estos consejos se puede lograr la excelencia operacional.
+
+Los procesos al estar bien diseñados, se evitan los costos de la no calidad.
+
+Fuentes de creación de valor.
+
+Sabemos que para producir algo existe un costo, la diferencia entre el precio costo y el precio venta genera beneficio, además de esto existe un costo transaccional para el cliente.
+La tendencia de las empresas para mejorar las ventas es mejorar el beneficio para el cliente, con una consecuente alza de costos.
+
+Para reducir los costos de transacción del cliente, las empresas tienden a implementar e-commerce.
+Esta implementación tiene un costo, el cual se retira del costo de transacción del cliente y tiende a mantener el mismo valor que en tienda, aun costando menos la transacción.
+
+Actividad
+
+Aparece una oferta de una empresa de internet 16 gb valido por 7 días a cierto dinero, y existe otra empresa que tiene la misma oferta mas barata, siendo que esta empresa solo posee un 5% de cables de trafico de datos y la empresa más cara posee casi la totalidad de cables de datos, ¿por qué?
+
+Modelo de negocio
+
+“El modo en que una organización crea, distribuye y captura valor”
+
+Cuando se formula un bien o servicio en una empresa se utiliza una técnica llamada macrosegmentacion, la cual deriva en una microsegmentación, lo que separa a quien va dirigido, que hace el servicio y que tecnología utiliza.
+Esto define si un proyecto se comienza a trabajar o se desecha
+Entre las funciones, la segmentación y las tecnologías, esta triada se denomina UEN y es el pilar central de la unidad estratégica de negocio
+
+Arquitectura del negocio
+
+Un conjunto organizado de elementos que se relaciona unos con otros de una manera cclara formando un todo…
+Estos elementos presentan la estructura organizacional y de comportamiento de un negocio y muestra las abstracciones de los procesos y las estructuras clave del negocio (Verdnadat 96, Enterprise modeling and integration. Chapman & Hall, 1996)
+Es imprescindible que toda arquitectura organizacional contenga una estructura especifica orientada a las TI, sobre todo en empresas de servicios.
+
+Vistas de modelo de negocio
+
+		•	Cada vista tiene enfoque en una abstracción del negocio en particular
+		•	Los modelos de las diferentes vistas están relacionados
+		•	Las distintas vistas son complementarias
+		•	Cada vista puede ser definida con técnicas especificas según su abstracción.
+
+Cada una con su respectivo UML que lo describa, por lo general 4 vistas para un objeto.
+
+Repasar ingeniería de software abstracción de la realidad, corresponde en general a un nivel de simplicidad que sea comprensible por el usuario.
+
+Vista de visión de negocio
+		•	Representa el por que y el contexto general de la organización.
+
+Expertos sobre la vista
+
+		•	Presidentes
+		•	Directorios
+		•	Gerencia
+
+Objetivo de la vista
+
+		•	Establece los objetivos de negocio
+		•	Establece la estrategia general del negocio
+		•	Actúa como guía para el modelado de las otras vistas del negocio
+		•	Imagen de “hacia donde” va el negocio
+		•	Herramienta de motivación entre involucrados
+
+		-	Que es la misión => id.
+		-	Visión => Como se quiere ver en el futuro.
+
+Vista de procesos de negocio
+
+		-	Representa el Como.
+
+Objetivos de la vista
+
+		•	Definir las actividades (procesos) de negocio que 		realicen los objetivos previamente definidos.
+Contenidos de la vista
+		•	Los procesos de negocio con sus objetivos a cumplir
+		•	Relación de los procesos con los recursos utilizados, producirlos y modificados.
+		•	Entidades físicas involucradas en los procesos.
+Informática debiera generar un plan informático, el cual sustente de que manera se va a ayudar a la consecución de objetivos del plan estratégico.
+
+TI debe proveer tecnología a informática y a los usuarios.
+
+BPM:
+
+Reformulación de la arquitectura de empresa:
+		1-	Diseño de bpmn
+		2-	Motores de bpmn
+		3-	Medir el comportamiento de los procesos mediante los kpi
+
+Si los indicadores kpi no son buenos se debe ajustar o rediseñar los procesos mediante mejora continua.
+Para definir los tiempos de demora de las actividades se debe evaluar a los involucrados y sacar el promedio de tiempo.
+El tiempo mínimo de producción es el momento en el cual el producto ya no se genera en su 100%
+
+Vista estructura de negocio
+
+		•	Representa el que y el quien.
+
+Objetivo de la vista
+
+		•	Definir la estructura de los recursos, los productos y la información de negocio.
+
+Contenido de la vista
+
+		•	Los recursos de negocio (físico, abstractos, humanos, etc.) y sus relaciones
+		•	Información estratégica del negocio
+		•	Estructura organizacional (Áreas, divisiones, departamentos).
+
+Vista de comportamiento de negocio
+
+		•	Representa el cómo y el cuando
+
+Objetivo de la vista
+
+		•	Especificar el comportamiento interno de los elementos del negocio
+
+Contenido de la vista
+
+		•	Ciclo de vida de los recursos individuales
+		•	Ejecución detallada de los procesos y sus interacciones
+		•	Colaboración entre los recursos
+
+Incluso las personas pueden cumplir su ciclo de vida de las empresas.
+
+Reglas de negocio
+
+•	Representan el por que afectan a todas las vistas
+Los negocios son controlados por las reglas que regular la estructura de los negocios y como ellos operan
+Las reglas de negocio son sentencias sobre la forma en que la empresa realiza negocios, influenciando, guiando o restringiendo su comportamiento y/o estructura.
+Las Reglas de negocio implementan las políticas de negocio: satisfacer los objetivos del negocio, satisfacer los clientes, hacer buen uso de los recursos, y respetar las leyes o convenciones de la empresa y las externas.
+
+
+Formas de estructura:
+OLAD -> BI (business intelligence)
+OLTP
