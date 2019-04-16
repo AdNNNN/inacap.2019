@@ -1,0 +1,64 @@
+Desarrollo del emprendimiento
+
+Unidad I: Creatividad, innovación, emprendimiento
+
+Parte 1:
+
+1 - ¿Qué es la economía?
+
+R- Puede ser considerado como la ciencia que se encarga del estudio de las variables emergentes de la actividad de mercado, se le asocia directamente con el bienestar material y la creación o devaluación de riqueza.
+
+2- ¿Qué es la actividad económica?
+	R- Es el conjunto de procesos y procedimientos necesarios para satisfacer contratos entre prestadores de servicios o venta de vienes y clientes, con el fin de realizar transacciones voluntarias previamente pactadas que tienen como objetivo satisfacer las necesidades de la parte en acuerdo.
+
+3- ¿Competencia perfecta?
+	R- Se trata de una situación ideal, en donde los actores de mercado no tienen la capacidad de modificar los precios arbitrariamente, sino que estos están determinados por la oferta y la demanda, esto maximiza los beneficios a los consumidores, debido a la competitividad por entregar un mejor producto a un mejor precio, con el incentivo para la empresa de no ceder su porción de mercado
+
+4- ¿Política fiscal y monetaria?
+
+Se trata de la organización del estado respecto a la gestión de los recursos económicos de un país, mediante esta se controlan los gastos y los ingresos mediante impuestos, la política monetaria controla la cantidad de dinero que se encuentra en circulación, para controlar variables como el valor de los vienes nacionales y extranjeros, inflación, etc.
+
+Parte II
+
+1-	Compartan sus definiciones y ejemplifiquen cada concepto.
+2-	Entreguen un ejemplo para punto de equilibrio.
+	a.	El punto de equilibrio entre oferta y demanda se decide cuando la economía ofrece cierto producto que es requerido por un público, el cual solo esta dispuesto a pagar ciertas unidades monetarias por su obtención.
+3-	¿Qué es una economía mixta, ejemplifique?
+	a.	La economía puede ser caótica o centralmente planificada, la economía caótica nace desde una base común para todos y se va complejizando en conjunto con la sociedad y sus necesidades, la centralmente planificada es totalmente controlada por el estado, quienes definen la cantidad de producción, precios, productores, etc.	La economía mixta contiene estos dos componentes en distintas medidas.
+4-	Foro de discusión.
+En sus grupos de trabajo investigar para luego explicar a la clase.
+
+1-	¿Qué es emprendimiento?
+
+R- Proviene el verbo emprender, se utiliza para denominar el acto de invertir tiempo, esfuerzos y bienes monetarios en lograr satisfacer las oportunidades de mercado, es una actividad que requiere perseverancia a través del tiempo debido a que no entrega ganancias a corto plazo.
+
+2-	¿Qué significa emprender?
+
+R- Es el acto de ejercer un oficio o profesión determinado y que requiera un nivel de esfuerzo y constancia, enfocado a satisfacer una necesidad de mercado.
+
+3-	¿Qué es innovación?
+
+R- La innovación es el acto de introducir mejoras en las construcciones previamente hechas por otras personas, también puede corresponder a un invento totalmente original.
+
+4-	¿Qué significa innovar?
+
+R- Corresponde al acto de tomar lo previamente construido e introducir mejoras.
+
+Parte II:
+
+Proponer 2 ideas de emprendimiento y 2 ideas de negocio innovador.
+Emprendimientos
+
+1-	Visión artificial para reconocimiento de patentes:
+La idea principal es tomar las funciones de reconocimiento de figuras para identificar las letras de una patente de  auto desde una cámara ubicada en cada semáforo a lo largo de un tramo, con el fin de identificar los vehículos con encargo por robo u otros siniestros, al mantener cámaras a lo largo de tramos, permite realizar trackeo de la ubicación de dicho vehículo, permitiendo a carabineros un actuar mucho mas eficiente y eficaz, como consecuencia de recuperar los vehículos mucho antes, se evitan los posteriores delitos que se realizan con estos como portonazos o los moto robos.
+
+2-	Pilares metálicos para seguridad en locales comerciales:
+La idea es crear un mecanismo oculto fuera del local de pilares metálicos bajo tierra justo en la entrada donde se baja la cortina del local, al terminar la jornada laboral se activa el mecanismo que revela estos pilares colocándolos enfrente de la cortina y evitando los llamados alunizajes, sin afectar la movilidad de la entrada y la estética de esta misma.
+
+	Negocios innovadores:
+
+Trabajo ABpro:
+El proyecto es de innovación y emprendimiento
+El producto y o servicio debe ser un prototipo
+No debe ser una plataforma informática necesariamente
+No puede usar su proyecto de software ni infraestructura.
