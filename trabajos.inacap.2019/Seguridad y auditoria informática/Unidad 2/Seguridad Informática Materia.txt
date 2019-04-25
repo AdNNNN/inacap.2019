@@ -1,0 +1,92 @@
+Seguridad Informática
+
+Como concepto es un proceso y no un producto, abarca la información tanto en medios físicos como eléctricos, independiente...
+
+La información es un bien que, como otros tiene valor para una organización y consecuentemente necesita ser protegida en forma apropiada (Justificación de la Auditoría)
+
+La seguridad de la información la protege de una amplia gama de amenazas con el fin de asegurar la continuidad del negocio, minimizar el daño y maximizar el retorno de la inversión y oportunidades de negocio
+
+La información puede existir de muchas formas. Impresa o escrita a papel, almacenada electronicamente, transmitida por correo o medios...
+
+- Confidencialidad: Consiste en asegurar que la información sea accesible solo para y por aquellos usuarios autorizados para tener acceso
+- Integridad: Consiste en salvaguardar que la información...
+- Disponibilidad: Consiste en asegurar que los usuarios autorizados tengan acceso a la infromación y bienes asociados cuando lo requiera
+
+La seguridad de la información se logra mediante la implementación de un adecuado conjunto de controles tales como:
+	- Políticas
+	- Prácticas
+	- Normas
+	- Procedimientos
+	- Estructura Organizacional Informática
+	- Funiones de Software
+Finalmente se necesita establecer estos controles...
+
+Un gobierno efectivo de seguridad debe lograr
+	- Alinear la seguridad de información con las estrategias de negocio
+	- Ejecutar medidas para mitigar riesgos
+	- Optimizar las inversiones en seguridad
+	- Medir, monitorear e informar
+
+Seguridad Física se refiere a la protección del Hw y soportes de datos, asi como a la de los edificios e instalaciones que los albergan. Contempla las situaciones de incendios, sabotajes, robos, catástrofes naturales, etc. La seguridad física garantiza la integridad...
+
+Objetivos de la seguridad Física
+	- Edificios
+
+Seguridad Logica se refiere a la seguridad del uso del Sw, a la protección de los datos, procesos y programas, asi como la del ordenado y autorizado acceso de los usuarios a la información. Un método...
+
+Leyes, Políticas, Normas y Procedimientos
+
+Para unificar el funcionamiento e las organizaciones se establece una estructura piramidal compueata por:
+	- Leyes
+	- Directrices o Políticas
+	- Normas
+	- Procedimientos
+
+Leyes y Regulaciones
+
+Cada organización necesita cumplir con un numero de requisitos del gobierno y externo relacionado con las prácticas y los controles de los sistemas de computo y con la manera en que se usan los computadores y programas de información son definidas por el gobierno de cada país como:
+	- Firma Electrónica
+	- Factura Digital
+
+Directrices o Políticas
+
+Documentos de alto nivel que representan la filosofía corporativa de una porganización, deben ser claras y precisas. Ejemplo:
+	- Políticas para contratación de personal
+	- Compras de Hw
+	- Desarrollo de Sw
+	- Etc.
+
+Brindan una guía para aplicar las normas de auditoría de sistemas, el auditor de sistemas debe considerarlas como llevarla a cabo, la implementación de las directrices citadas anteriormente
+
+Normas
+
+Estandarizar, es definir ciertos requisitos obligatorios que deben cumplirse. La auditoría de los sistemas de información requiere de normas aplicables específicas para los sistemas de información. El marco de las normas de auditoría de los sistemas de información de Isaca tiene múltiples niveles, definen los requisitos obligatorios para la auditoría ...
+
+Normas ISO
+
+17.799 -> Seguridad de la información a nivel mundial (completo conjunto de controles de incluye las prácticas existosas de seguridad de la información)
+
+10 Áreas de control de ISO 17.799
+	- Políticas de Seguridad
+	- Organización de la Seguridad
+	- Control y Clasificación de los recursos de información
+	- Segridad de Personal
+	- Seguridad Física y Ambiental
+	- Manejo de la conunicaciones y las operaciones
+	- Control de Acceso
+	- Desarrollo de Mantenimiento de los sistemas
+	- Manejo de la continuidad de la empresa
+	- Cumplimiento de la Norma Técnica ISO 17.799
+
+Beneficios de la Norma Técnica ISO 17.799
+
+Una organización o empresa cerfiticada con la norma...
+	- Mayoe seguridad de la empresa
+	- Planeación y manejo de la seguridad más efectivos
+	- Amenazas comerciales
+	- Menor Responsabilidad
+
+Otras Normas
+- ISO 9001 ->Calidad
+- ISO 12207 -> Ciclo de vida del software
+- ISO 25000 -> Calidad del Producto
