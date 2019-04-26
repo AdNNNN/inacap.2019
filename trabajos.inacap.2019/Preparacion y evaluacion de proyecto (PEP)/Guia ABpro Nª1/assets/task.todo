@@ -11,13 +11,13 @@ Etapa 1: Eleccion del tipo de proyecto
   ✔ 1.2: Definicion de la solucion. @done (19-04-16 17:32)
     ✔ Plantear una propuesta de solucion. @done (19-04-16 17:32)
     ✔ Diseñar la solucion de la problematica. @done (19-04-16 17:32)
-    ✔ Modelo de proceso de negocio hacia la solucion. @done (19-04-16 17:32)
+    ✔ Modelo de proceso de negocio hacia la solucion. @done (19-04-26 12:49)
 
  Etapa 2: Analisis de la Viabilidad del proyecto
-   ☐ 2.1: Analisis de Viabilidad Comercial.
-   ☐ 2.2: Analisis de Viabilidad Tecnica.
-   ☐ 2.3: Analisis de Viabilidad Gestion.
-   ☐ 2.4: Analisis de Viabilidad Legal.
+   ☐ 2.1: Analisis de Viabilidad Comercial. (debe arreglarse)
+   ✔ 2.2: Analisis de Viabilidad Tecnica. @done (19-04-26 12:49)
+   ✔ 2.3: Analisis de Viabilidad Gestion. @done (19-04-26 12:49)
+   ✔ 2.4: Analisis de Viabilidad Legal. @done (19-04-26 12:49)
 
 Etapa 3: Alcance del proyecto
   ☐ 3.1: Enunciado del Alcance.
