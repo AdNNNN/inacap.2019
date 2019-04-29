@@ -157,3 +157,9 @@ Las Reglas de negocio implementan las políticas de negocio: satisfacer los obje
 Formas de estructura:
 OLAD -> BI (business intelligence)
 OLTP
+
+Introduccion
+Aspectos Basicos
+- El desarrollo de las TI provoca impacto en los procesos de negocios.
+
+- La introducion de lo PC, Tecnologias de redes e Internet, permite que las organizaciones lleven sus productos al mercado mas rapidamentes y con mayor eficiencia.
