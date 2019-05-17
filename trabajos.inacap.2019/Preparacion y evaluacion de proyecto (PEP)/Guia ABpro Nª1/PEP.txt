@@ -1,0 +1,56 @@
+Vision Artificial para el reconocimiento de patentes
+
+Problema: En la region Metropolitana se encuentra el mayor numero de robos de automoviles (AACH, 2017), con el fin de cometer una actividad ilisita. Eso provoca inseguridad tanto a los usuarios como las fuerzas que evitan este acto.
+
+Fuente: https://www.emol.com/noticias/Autos/2017/11/21/884238/Los-coreanos-y-los-japoneses-llevan-la-delantera-Estos-son-los-autos-asegurados-mas-robados-en-lo-que-va-del-ano.html
+
+De quien es el problema: El problema recae sobre las instituciones de proteccion presente y encargadas sobre el robo de automoviles (tales como: Carabineros de Chile, Policia de investigacion y Seguridad Municipal).
+
+Por que les pertenece el problema: las instituciones de proteccion tiene como un unico fin es rescuardar la seguridad de la ciudanadia, sea el caso de un confictos menores a uno de mayor indole (Mario Arnoldo De La Fuente Fernández, 2010)  
+
+Fuente:https://www.monografias.com/trabajos82/estica-carabineros-es-inseguridad-ciudadana/estica-carabineros-es-inseguridad-ciudadana4.shtml
+
+-------------------------------------------------------------------------------------
+
+Solucion 1: Gracias a rescursos actuales que maneja Carabineros de Chile, ya se las camaras de transito, se debera implementar vision artificil para el reconocimineto de patentes de un vehiculo. El fin de aquello es identificar vehiculos con presunto cargo de robos y/o otro delito cometido. 
+
+Puntos Fuertes --> 
+	- La camara ya implementada en la region Metropolitada se cuenta operando las 24/7.
+	- Se encuentra ya conectada a un servidor.
+	- Se encuentra monitoreada bajo manipulacion Humana.
+
+Puntos Debiles --> 
+	- Las patentes del supuesto vehiculo puede no estar visible a simple vista.
+	- Se debe hacer intervencion humana.
+
+Analisis --> 
+
+----0----0----0----
+
+Solucion 2: Implementacion de camaras de vigilancia en las patrullas de Carabineros de chile, esta es otra forma para vigilar, reconcer e idenficiar las patentes que tenga encargo de robos.
+
+Puntos Fuertes --> 
+	- La vigilancia es mas efectiva ya dentro de una patrulla.
+	- Se puede hacer una interversion en el momento.
+
+Puntos debiles -->
+	- La transferencia de datos via internet movil seria demasiado costosa.
+	- Existe un delay entre el postprocesado de datos y la respuesat que podria hace ineficiente este metodo.
+
+
+
+----0----0----0----
+
+Solucion 3: Se puede utilizar un equipo de drones que realice controles de transito en distintas intersecciones o avenidas concurridas de santiago
+
+Puntos fuertes:
+	- Puede desplegarse en casi cualquier ubicacion con facilidad
+
+Puntos debiles:
+	- Baja autonomia energetica de los drones.
+	- Dificulta la funcion de transferencia de datos
+
+----0----0----0----
+
+Solucion 4: Se pueden utilizar 
+-------------------------------------------------------------------------------------
