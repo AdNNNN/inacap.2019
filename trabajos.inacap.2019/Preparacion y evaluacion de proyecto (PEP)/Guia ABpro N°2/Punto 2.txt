@@ -1,0 +1,17 @@
+Punto 2
+2.1->Determinación Grupo (Caracteristicas y Roles)
+   ->Estimación RH
+   ->Análisis
+
+2.2->Cronograma
+   ->Items nesarios
+   ->Estimación de Activos
+   ->Análisis
+
+2.3->Crono Modificado
+   ->Estiamción de Matriz
+   ->Análisis (Cronograma matriz)
+
+2.4->Cronograma modificado2
+   ->Estimación de mantenimiento del proyecto
+   ->Análisis de Mantención con numeros RH
