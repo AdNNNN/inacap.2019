@@ -33,12 +33,14 @@ Documentar la Auditoría
 *Opina y Recomienda*
 -------------------------------------------------------
 1)Identificar una empresa (Qué hace/Cómo lo hace)
+
 2)Estudiar la empresa. (Entrevistas/Documento)(Formato)
 Conocer
 	- Visión
 	- Misión
 	- Objetivos
 	- Estructura (Organigrama)
+
 3)Realizar una carta Gantt (Preliminar)
 	- Conocer la Empresa
 	- Analizar la Empresa
@@ -48,7 +50,5 @@ Conocer
 	- Entrevistar Stakeholders
 	- Documentar entrevistas
 	- Analizar las entrevistas
-	.
-	.
-	.
+
 	- Elaborar informe final
