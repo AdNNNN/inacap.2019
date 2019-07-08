@@ -1,0 +1,163 @@
+Auditoría -> Gobierno TI
+
+Alineamiento de las TI con el negocio (Fundamental) -> Los objetivos están apoyados.
+*Gobierno corporativo está por encima de las emrpesas*
+
+Contenido Gobierno TI
+	1-Gobierno Corporativo
+	2-Gobierno de TI
+	3-Estrategias de Sistema de Información
+	4-Políticas y Procedimientos
+	5-Administración de Riesgos
+	6-Prácticas de Gerencia de Sistemas de Información
+	7-Estructura Organizacional y Responsabilidades de SI
+	8-Auditoría de la Estructura e Implementación del Gobierno TI
+
+1-Gobierno Corporativo (Control Financiero)
+	Forma en que se administra y controlan las sociedades, refleja las relaciones de poder entre socios o accionistas, la Junta Directiva y la Gerencia. Es la forma en cómo se administran y controlan las sociedades.
+
+	Mejores Prácticas
+		El gob. de TI es responsabilidad de la junta directiva (Directorio) y de la gerencia ejecutiva. Es parte integral del gobierno de la empresa y está constituida por la estructura de liderazgo y organizacionales y procesos que aseguran que las TI de la organización TIENEN, SOSTIENEN Y EXTIENDEN la estrategia y objetivos de la organización.
+
+	Prácticas de Monitoreo y Aseguramiento para la junta y la Gerencia Ejecutiva
+		El Gob. Corp. de TI abarca:
+			- Sistema de información
+			- Tecnologías (HW, SW)
+			- Comunicaciones
+			- Negocios y Aspectos Legales
+
+		*El gobierno ayuda a asegurar el ALINEAMIENTO de TI con los objetivos de la empresa*
+
+		Fundamentalmente al Gob. de TI le incumben dos aspectos:
+			- Que las TI entreguen VALOR al negocio (cosas que SIRVEN)
+				Impulsado por el alineamiento de TI con el Negocio
+			- Riesgos de TI sean MITIGADOS (CONTROLAR los riesgos)
+				Impulsado por la integración de la responsabilidad en la empresa
+
+					-------------->-----Entrega de Valor------------->------
+					|														|
+		Alineamiento Estratégico   <-	Motivadores de Valor		Gestión de Riesgos
+					|														|
+					-----<--------------Medición de Desempeño------<---------
+
+		*Todo se mide hoy en día*
+
+		Rol de la Auditoría
+			Auditar el Gobierno de TI implica auditar al más alto nivel de la organización.
+			Va más allá del departamento de Sistemas.
+			Requiere de un autidor de nivel apropiado de preparación y experiencia.
+
+		Comité de estrategias de TI (Stering Commitee)
+			- Mecanismo para incorporar el Gobierno de TI dentro del Gobierno Corporativo.
+			- Como comité de la junta o Directorio, asesora en la supervisión de los asuntos relacionados con TI de la empresa, asegurando que el Directorio tenga la infromación interna y externa que requiera para una efectiva toma de decisiones del Gobierno de TI.
+			- Las organizaciones han tenido Comites de Dirección a un nivel ejecutivo para resolver los problemas de TI que sean relevantes a nivel de toda la organización. Debe existir un claro entendimiento tanto de la estrategia de TI como de los niveles de dirección. El ITGI emitió un documento en el que se hace un claro análisis entre ellos.
+
+			Principales temas de un Comité de Estrategias de TI:
+
+				A nivel Directorio:
+					- Relevancia del Proyecto de TI.
+					- Alineación de Estrategias.
+					- Disponibilidad de Recursos.
+					- Optimización de costos.
+					- Toma conocimientos de los riesgos.
+					- Nexo con la Junta de Directorios.
+
+				A nivel Gerencial:
+					- Aprobación de Arquitecturas de TI.
+					- Aprobación de planes y presupuestos.
+					- Monitoreos de proyecto (seguimiento)
+					- Resolución entre conflictos de recursos.
+					- Comunicación de metas.
+
+		Balance Scorecard (BSC) (Llamados tambien Tableros de Mando)
+			Técnica evaluativa que puede aplicarse al proceso de Gobierno del negocio de TI para evaluar las funciones y los procesos de TI.
+			Conecta la Visión con las Estrategias.
+			Transformando la Misión en Objetivos Medibles.
+
+					---------------->-------Perspectiva Financiera-------------->--------
+					|																	|
+		Perspectiva del Cliente										Perspectiva Procesos Internos del Negocio
+					|																	|		
+					----------<-----Perspectiva del Aprendizaje y Crecimiento----<-------
+	Perspectiva del MedioAmbiente
+
+													Misión (Permanente)
+													    Valores
+													Visión (Largo Plazo)
+													   Estrategias
+													Balance Scorecard
+													   Alineamiento
+													    Objetivos
+												Clientes/Dueños Satisfechos
+
+		Gobierno de Seguridad de la Información
+			Aspecto Sisnificativo para la gobernabilidad de la organización.
+			Importancia cada vez mayor de las tecnologias de información y sus riesgos.
+			Importancia:
+				- Abarca todos los procesos de información (físicos y electrónicos).
+				- Suministrar mayor confianzas en las interacciones con los socios del negocio.
+				- Mejorar las confianzas de las relaciones con los clientes.
+				- Proteger la reputación de la organización.
+				- Transacción Electrónica.
+
+			Prácticas de Monitoreo
+			Debe lograr:
+				- Alineación estratégica - Alinaer la seguridad de la información con la estrategia de negocio.
+				- Administrar y ejecutar medidas apropiadas para mitigar los riesgos.
+				- Entrega de valor - Optimizar las inversiones en seguridad.
+				- Administración de Recursos - Usar los conocimientos y la infraestructura de seguridad de manera eficiente y efectiva.
+				- Medición del Desempeño.
+
+		Arquitectura de Empresa (EA)
+			- Herramienta de Modelamiento y documentación propuesta por John Zachmann a fines de los 80. De amplio uso actual.
+			- Implica documentar los activos de TI de una organización en una forma estructurada para facilitar la comprensión.
+			- Debería mostrar el estado actual como futuro de las TI de una organización.
+
+		Planeación Estratégica de SI
+			- Desde un punto de vista de los sistemas de información, se relaciona con la dirección a largo plazo que una organización quiere seguir para apalancar con tecnología de información la mejora de sus procesos de negocio.
+			- Objetivos:
+				- Identificar soluciones eficientes de TI.
+				- Desarrollar planes de acción - Estratégicos.
+				- Evaluar funcionalidad - Costos y Riesgos.
+				- Evaluar la infraestructura técnica y procesos claves.
+				- Evaluación Financiera.
+
+			Políticas y Procedimientos
+				Reflejan la guía filosófica y orientación de la gerencia.
+				Políticas:
+					- Documentos de Alto Nivel.
+					- Ser claras y Concisas.
+					- Crear un ambiente de control positivo.
+					- Establecen un estilo.
+					- Top Down.
+					- Politicas de Nivel Medio: Seguridad de Información, Inversiones, Recursos Humanos.
+				Procedimientos:
+					- Documentos detallados.
+					- Derivados de la política madre e implementar el espíritu (Intención) de la aseveración de la política.
+					- Ser escritos.
+					- Claras, presicas y concisas.
+					- Son dinámicos.
+				Administración de Riesgos:
+					- Proceso de identificar las debilidades y las amenazas para los recursos de información utilizados por una administración para lograr los objetivos.
+				Administración de Personal:
+					- Contratación.
+					- Manual del Empleado.
+					- Políticas de Promoción.
+					- Entrenamiento.
+				Administración del Personal:
+					- Cronogramas y Reportes de Tiempo.
+				Prácticas de Gerencia Financiera:
+					- Elemento crítico en todas las funciones.
+
+			Principales Políticas
+				- Externalización.
+				- Financieras.
+
+			Estándares Aplicables:
+				- SOX.
+				- Basillea II.
+				- ITIL.
+				- CMMI.
+				- ISO/IEC.
+				- CoBIT.
+				- Norma Chilena.
