@@ -1,0 +1,101 @@
+CoBIT (Ver. 4.01 por ISACA)
+
+*Control Objectives for Information Technologies*
+
+- Framework, conjunto de categorias relacionadas con las mejores prácticas, experiencias e ideas relativas al Gobierno TI.
+- No es un método ni tampoco un manual. Es un marco de referencias para gestionar y controlar las TIs
+- Se ajusta y sirve como soporte al framework de control Interno COSO-ERM(Enterprise Risk Management), en lo relativo al control específico de las TI.
+- Esta relacionado al negocio, procesos y basados en controles
+- Esta apoyadopor un conjunto de guías para apoyar el Gobierno Corporativo, mapeos con otros estándares y regulaciones, más una creciente familia de publicaciones y productos de SW diseñados para ayudar a la implementación de una efectiva gobernabilidad de las TI en las organizaciones
+
+Marco de Control
+
+- Creciente depedencia de la información y de los sistemas, entregan esa información
+- Crecientes vulnerabilidades y amplio espectro de amenazas
+- La magnitud y costos de las actuales y futuras inversiones en sistema de infromación
+- Necesidad de cumplir con las regulaciones
+- El potencial de as tecnologías para cambiar dramáticamente las prácticas de negocios y las organizaciones creando nuevas oportunidades y reduciendo costos
+- Reconocimiento por muchas organizaciones de los beneficios potenciales que la tecnología puede traer
+*LAS ORGANIZACIONES EXITOSAS ENTIENDEN Y ADMINISTRAN LOS RIESGOS ASOCIADOS CON LA IMPLEMENTACIÓN DE NUEVAS TECNOLOGÍAS*
+
+Soporte
+
+- Que las TIs estén alineadas con el negocio
+- Potenciar el negocio y maximizar los beneficios
+- Usar los recursos de manera responsable
+- Administrar riesgos en forma apropiada
+
+Asegurarmiento con Marco de Control
+
+- Las TIs proveen Valor (Costo, tiempo, y funcionalidades como se espera)
+- Las TIs no proveen Sorpresas (Riesgos Mitigados)
+- Las TIs empujen el Carrito (Nuevas oportunidades e innovaciones para los procesos, productos y servicios)
+*LA GERENCIA NECESITA TENER LAS TI BAJO CONTROL*
+
+Usuarios del Marco de Control
+
+- Directores y Ejecutivos
+- Administración
+- Usuarios
+- Auditores
+
+Por qué y cómo se usa CoBIT
+
+- Incorpora estándares interacionales
+- Ha llegado a ser un estándar de facto para todo en control sobre TI
+- Parte desde los requerimientos del negocio
+- Está orientado a los procesos
+
+Áreas Locales del Gobierno TI
+
+- Alineación Estratégica
+- Entrega de Vaor
+- Administración de Recursos
+- Administración de Riesgos
+- Medición de Desempeño
+
+										Alineación Estratégica
+
+					Medición de Desempeño		Gob de TI		Entrega de Valor
+
+					Administración de Riesgos			Administración de Recursos
+
+Principios Básicos
+
+- Requerimientos del Negocio
+- Recursos TI
+- Procesos TI
+
+Definición CoBIT
+
+- Entregar información que la empresa necesita para alcanzar sus objetivos
+- Promover el foco de los procesos
+- Dividido en 34 procesos pertenecientes a 4 Dominios
+	- Planear y Organizar
+	- Adquirir e Implementar
+	- Entrega y Soporte
+	- Monitoreo y Evaluación
+- Considera requerimientos de COSO, necesidades de calidad y seguridad de las empresas a traves de 7 criterios de información
+	- Efectividad
+	- Eficiencia
+	- Disponibilidad
+	- Integridad
+	- Confidencialidad
+	- Confiabilidad
+	- Cumplimiento
+
+Las 3 caras del cubo de CoBIT
+	- Primera Cara (Procesos de TI)
+		- Dominios
+		- Procesos
+		- Actividades
+	- Segunda Cara (Recursos TI)
+		- Aplicaciones
+		- Información
+		- Infraestructura
+		- Personas
+	- Tercera Cara (Requerimientos del Negocio)
+		- Los 7 Criterios de Información
+
+*Con el fin de proporcionar la inforamción que la empresa necesita para alcanzar sus objeivos, los recursos de TI deben ser administrados por un conjunto de procesos de TI agrupoados en forma natural*
+
